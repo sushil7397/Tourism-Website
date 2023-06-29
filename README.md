@@ -18,15 +18,12 @@ Responsive Design: The application is designed to be responsive and accessible o
 Technologies Used
 The Tours and Travel project is built using the following technologies:
 Django: A high-level Python web framework that provides a clean and efficient way to build web applications.
-HTML, CSS, and JavaScript: The front-end of the application is built using these standard web technologies.
+HTML, CSS, and JavaScript: The front end of the application is built using these standard web technologies.
 Bootstrap: A popular CSS framework that helps with responsive design and provides pre-built UI components.
 SQLite: The project uses SQLite as the default database for development. However, it can be easily switched to other databases supported by Django, such as MySQL or PostgreSQL.
 
 Installation
 To set up the Tours and Travel project locally, follow these steps:
-
-Clone the project repository from GitHub:
-git clone https://github.com/sushil7397/Voice-Based-Tours_and_Travel
 
 Navigate to the project directory:
 cd Voice-Based-Tours_and_Travel
